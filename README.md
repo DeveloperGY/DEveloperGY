@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperGY&show_icons=true&theme=merko)](https://github.com/DeveloperGY)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperGY&layout=compact&hide=html,makefile&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperGY&layout=compact&hide=html,makefile&theme=merko)](https://github.com/DeveloperGY)
 
 <!--
 **DeveloperGY/DEveloperGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
